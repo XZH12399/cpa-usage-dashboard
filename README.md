@@ -1,6 +1,6 @@
 # CPA Usage Dashboard
 
-Last updated: `2026-04-17T21:44:21+08:00`
+Last updated: `2026-04-17T21:44:30+08:00`
 
 | Credential | Plan | Status | 5h Remaining | 5h Reset | Weekly Remaining | Weekly Reset |
 |---|---:|---|---:|---:|---:|---:|
