@@ -2,17 +2,17 @@
 
 Pages: [Live dashboard](https://xzh12399.github.io/cpa-usage-dashboard/)
 
-Last updated: `2026-04-19T17:06:26+08:00`
+Last updated: `2026-04-19T17:21:38+08:00`
 
 | Credential | Plan | Status | 5h Remaining | 5h Reset | Weekly Remaining | Weekly Reset |
 |---|---:|---|---:|---:|---:|---:|
-| codex-lu***@zhu.19492029.xyz-plus.json | Plus | OK | 95% | 04-19 20:02 | 99% | 04-26 15:02 |
-| codex-qe***@zhu.19492029.xyz-plus.json | Plus | OK | 95% | 04-19 20:08 | 99% | 04-26 15:08 |
-| codex-si***@zhu.19492029.xyz-plus.json | Plus | OK | 95% | 04-19 20:09 | 99% | 04-26 15:09 |
-| codex-ma***@qin.19492029.xyz-plus.json | Plus | OK | 94% | 04-19 20:02 | 99% | 04-26 15:02 |
-| codex-to***@zhu.19492029.xyz-plus.json | Plus | OK | 94% | 04-19 20:09 | 99% | 04-26 15:09 |
-| codex-73***@qq.com-plus.json | Plus | OK | 94% | 04-19 19:56 | 90% | 04-24 00:52 |
-| codex-xz***@163.com-plus.json | Plus | OK | 93% | 04-19 19:56 | 89% | 04-24 01:27 |
+| codex-lu***@zhu.19492029.xyz-plus.json | Plus | OK | 94% | 04-19 20:02 | 99% | 04-26 15:02 |
+| codex-si***@zhu.19492029.xyz-plus.json | Plus | OK | 94% | 04-19 20:09 | 99% | 04-26 15:09 |
+| codex-ma***@qin.19492029.xyz-plus.json | Plus | OK | 93% | 04-19 20:02 | 99% | 04-26 15:02 |
+| codex-qe***@zhu.19492029.xyz-plus.json | Plus | OK | 93% | 04-19 20:08 | 99% | 04-26 15:08 |
+| codex-73***@qq.com-plus.json | Plus | OK | 93% | 04-19 19:56 | 90% | 04-24 00:52 |
+| codex-to***@zhu.19492029.xyz-plus.json | Plus | OK | 92% | 04-19 20:09 | 99% | 04-26 15:09 |
+| codex-xz***@163.com-plus.json | Plus | OK | 92% | 04-19 19:56 | 89% | 04-24 01:27 |
 | codex-pl***@litshopp.com-free.json | - | DISABLED (credential disabled) | - | - | - | - |
 | codex-po***@zhu.19492029.xyz-plus.json | - | ERROR (HTTP 401: Your authentication token has been invalidated. Please try signing in again.) | - | - | - | - |
 
