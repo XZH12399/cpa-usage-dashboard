@@ -2,7 +2,7 @@
 
 Pages: [Live dashboard](https://xzh12399.github.io/cpa-usage-dashboard/)
 
-Last updated: `2026-04-25T17:03:59+08:00`
+Last updated: `2026-04-25T17:19:04+08:00`
 
 | Credential | Plan | Status | 5h Remaining | 5h Reset | Weekly Remaining | Weekly Reset |
 |---|---:|---|---:|---:|---:|---:|
